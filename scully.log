@@ -1,0 +1,12 @@
+
+---------
+    Config file "[33m.\scully.workfromhome-store.config.ts[39m" not found, only rendering routes without parameters
+    The config file should have a name that is formated as:
+       scully.[33m<projectName>[39m.config.ts
+    where [33m<projectName>[39m is the name of the project as defined in the 'angular.json' file
+    When you are in a mixed mono-repo you might need to use the --pjFirst flag.
+---------
+
+The option outDir isn't configured, using default folder "[33m.\dist\static\[39m".
+No routes defined in ""
+No configuration for route "[33m/products/:productId[39m" found. Skipping
